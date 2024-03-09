@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.mainContainer{
+    margin-left: 700px;
+    margin-top: 200px;
+    width: 500px;
+    height: 500px;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.convertor{
+    height: 200px;
+    width: 200px;
+    background-color: azure;
+    margin-left: 150px;
+}
